@@ -31,6 +31,5 @@ a. **Leverage Python for Growth**: Given Python’s growing popularity, develope
 b. **Maximize Weekend Engagement**: Since many developers are highly active on weekends, it would be beneficial to schedule major releases or updates during the weekend. This approach could increase the likelihood of immediate feedback and engagement. 
 
 <img width="1081" alt="Screenshot 2024-10-31 at 11 43 56 PM" src="https://github.com/user-attachments/assets/1af94282-37d6-4331-aa73-f89872a00974">
-<img width="929" alt="Screenshot 2024-10-31 at 11 50 30 PM" src="https://github.com/user-attachments/assets/fc59e470-310c-4467-a50d-092bf14ab086">
 
 
