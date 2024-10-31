@@ -19,13 +19,18 @@ The processed data was saved in two CSV files: users.csv for user information (e
 
 
 ### 2. Updated Interesting and Surprising Facts:
-1. **Significant Increase in New Contributors**: In 2022, the number of new contributors from Sydney increased by over 35% compared to previous years, suggesting a growing interest in contributing to open-source projects.
+1. **Decreasing number of New Contributors**: Number of contributors peaked in 2011 and then moved downwards, we should be cautious here as we are only evaluating the users with more than 100 followers but still downtrend is quite visible.
 2. **Python is Gaining Popularity**: Python has emerged as the second most popular language among Sydney developers, with a 20% increase in usage over the past two years, reflecting a trend toward data science and machine learning projects.
 3. **Few Contributors with High Engagement**: Around 10% of users are responsible for 70% of the repository stars and forks, indicating that a small group of highly engaged users drives most of the activity.
-4. **Strong Correlation Between Contributions and Followers**: There is a positive correlation (`0.72`) between the number of contributions a user makes and their follower count, implying that being active is linked to greater visibility.
+4. **Weak Correlation Between Contributions and Followers**: There is a positive correlation (`0.03`) between the number of contributions a user makes and their follower count, implying that contributions are not playing that much role in gaining the followers.
 
 ### 3. Updated Actionable Recommendations for Developers:
-1. **Contribute Actively to Gain Visibility**: Focus on contributing more to personal repositories and popular open-source projects to grow your follower base.
+1. **More than quantity quality matters to Gain Visibility**: Focus on contributing more on quality rather than quantity to grow your follower base.
 2. **Leverage Python for Growth**: Given its rising popularity, invest time in Python, especially in data science and machine learning projects.
 3. **Network with Key Contributors**: Collaborating or networking with the highly active 10% of users could boost your visibility. Engaging with established members can help in gaining traction.
 4. **Improve Repository Accessibility**: Adding clear instructions, documentation, and features like issue templates and discussions can significantly enhance engagement for your repositories.
+
+<img width="1081" alt="Screenshot 2024-10-31 at 11 43 56 PM" src="https://github.com/user-attachments/assets/1af94282-37d6-4331-aa73-f89872a00974">
+<img width="929" alt="Screenshot 2024-10-31 at 11 50 30 PM" src="https://github.com/user-attachments/assets/fc59e470-310c-4467-a50d-092bf14ab086">
+
+
